@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task01</string>
+    <string name="button_lower">Lower</string>
+    <string name="button_equals">Equals</string>
+    <string name="button_higher">Higher</string>
+    <string name="last_throw">Last Throw: %d</string>
+    <string name="task_definition">Guess if the next throw is going to be lower, equal or higher.</string>
+</resources>
